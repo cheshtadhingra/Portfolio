@@ -1,2 +1,4 @@
 # Portfolio
-#this is my  created using html and css
+Created Using HTML and CSS
+Non responsive(as of now)
+
